@@ -3,7 +3,7 @@
 A collection of notes on UNSW COMPXXXX courses.
 
 | Code  | Name                                      | Completed in  | Notes                                                     |
-| ---   | ---                                       | ---           | ---                                                       |
+| ---   | ---                                       | ---           | :---:                                                     |
 | 1511  | Intro to Programming                      | 18s1          | [x](COMP1511-Intro-to-Programming.pdf)                    |
 | 1521  | Computer System Fundamentals              | 18s2          | [x](COMP1521-Computer-System-Fundamentals.pdf)            |
 | 1531  | Software Engineering Fundamentals         | 19t1          | [x](COMP1531-Software-Engineering-Fundamentals.pdf)       |
