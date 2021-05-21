@@ -18,3 +18,4 @@ A collection of notes on UNSW COMPXXXX courses.
 | 6441  | Security Engineering                      | 19t2          | [x](COMP6441-Security-Engineering.pdf)                    |
 | 6443  | Web App Security and Testing              | 20t2          | [x](https://github.com/hillaryychan/COMP6443)             |
 | 6771  | Advanced C++ Programming                  | 20t2          | [x](https://github.com/hillaryychan/COMP6771)             |
+| 9321  | Data Services Engineering                 | 21t1          | [x](https://github.com/hillaryychan/COMP9321)             |
